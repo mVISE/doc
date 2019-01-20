@@ -1,0 +1,15 @@
+Test Flow
+
+1) Alice open the app and scans the first item (Clubmate-Rababer)
+2) The Question/Quest shows up
+3) She solves the quest and get her points
+4) Alice give Bob the bottle.
+5) Bob scans the bottle
+    -> Alice gets points
+   
+6)...
+7) Alice scans a not released bottle -> Error with hint, someone else has to slove quest -> "Do you want to help?"
+
+8 ) Alice scans a not registerd bottle -> Hint code is not register: do you want to invite Manifacture?
+
+9) Alice scans  a "pre-scaned" bottle -> Hint: "You have soled this quest
